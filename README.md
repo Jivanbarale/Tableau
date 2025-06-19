@@ -1,6 +1,7 @@
 
-Data : 
-[download here](https://github.com/Jivanbarale/Tableau/blob/main/Finance%20Data.xlsx)
+Dataset Used
+
+- [Finance data](https://github.com/Jivanbarale/Tableau/blob/main/Finance%20Data.xlsx)
 
  
 Requirements: 
