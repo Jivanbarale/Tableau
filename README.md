@@ -64,6 +64,9 @@ PDF Export Button: Dedicated button to download the dashboard as a PDF.
 ![Screenshot 2025-06-19 214719](https://github.com/user-attachments/assets/1e5e79de-8764-4bc5-bfab-c9af135a68fb)
 
 
+[download](https://github.com/Jivanbarale/Tableau/blob/main/Dashboard.png)
+
+
 
 
 
